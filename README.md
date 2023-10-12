@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyankashenoyy
 - 👀 I’m interested in Front End projects roles
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning react
 - 📫 How to reach me - priyankas1995@gmail.com
 
 <!---
